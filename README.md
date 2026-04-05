@@ -1,4 +1,6 @@
 # 🤖 AI-Powered Data Analyst
+## 🚀 Live Demo
+👉 [Click here to view the live app](https://ai-data-analyst-z95vxcz7v4sqok3xhmtvzx.streamlit.app)
 
 An end-to-end AI application that lets anyone upload a dataset and instantly get automated analysis, ask questions in plain English, and generate professional business reports.
 
